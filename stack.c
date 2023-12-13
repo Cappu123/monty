@@ -1,5 +1,3 @@
-
-
 #include "monty.h"
 #include <string.h>
 
@@ -66,4 +64,3 @@ int check_mode(stack_t *stack)
 		return (QUEUE);
 	return (2);
 }
-
